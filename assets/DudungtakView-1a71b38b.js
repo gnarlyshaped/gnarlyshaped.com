@@ -1,4 +1,4 @@
-import{d as kl,i as Gl,j as Vl,c as Wl,o as ql,a as U,v as Xl}from"./index-19900206.js";const Yl="/dudungtak/logo.webp";/**
+import{d as kl,g as Gl,h as Vl,a as Wl,o as ql,b as U,q as Xl}from"./index-12e14210.js";const Yl="/dudungtak/logo.webp";/**
  * @license
  * Copyright 2010-2021 Three.js Authors
  * SPDX-License-Identifier: MIT
